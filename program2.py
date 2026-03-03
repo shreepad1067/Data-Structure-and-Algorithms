@@ -1,7 +1,5 @@
-for i in range(1,101,1):
-    print(i ,end=" ")
-    if(i==50):
-        break
-    else:
-        print("Mississippi")
-print("\nThank you")
+a = (input("Enter any value between 5 and 9"))
+if(a!="quit"):
+  if(int(a)<5  or int(a)>9):
+    raise  ValueError("Value should be between 5 and 9")
+ 
