@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "divide-and-conquer",
+    "name": "Divide and Conquer"
+  },
+  "updatedAt": "2026-08-15T09:28:06.147Z",
+  "problems": [
+    {
+      "frontendId": "4",
+      "title": "Median of Two Sorted Arrays",
+      "slug": "median-of-two-sorted-arrays",
+      "problemName": "0004-median-of-two-sorted-arrays",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+      "folderPath": "Arrays/0004-median-of-two-sorted-arrays/",
+      "readmePath": "Arrays/0004-median-of-two-sorted-arrays/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0004-median-of-two-sorted-arrays.java",
+          "path": "Arrays/0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.java",
+          "sha": "fa5553f3219343d80548ce03c7f40686233da9a4",
+          "lastSyncedAt": "2026-08-15T09:28:06.147Z"
+        }
+      ]
+    }
+  ]
+}
